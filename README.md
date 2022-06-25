@@ -1,2 +1,2 @@
 # login-register-portal
-login-register portal using html,css,javascript and node.js
+login-register portal javascript, node.js and ejs
