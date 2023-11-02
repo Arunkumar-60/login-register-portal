@@ -2,5 +2,4 @@
 
 login-register portal javascript, node.js and ejs
 
-time line : 56:22
-https://www.youtube.com/watch?v=9KLLQOFEx8w
+to kill port use $ npx kill-port {port_number}
